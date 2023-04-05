@@ -1,0 +1,24 @@
+Link repositório do GitHub: https://github.com/brunull/DesafioTargetSistemas
+
+1) 91 (Código no GitHub)
+
+
+2) (Código no GitHub)
+
+
+3) a) 9, lógica adicionar 2.
+
+b) 128, lógica dobrar.
+
+c) 49, lógica sequência de inteiros ao quadrado.
+
+d) 100, lógica sequência de inteiros de dois em dois (2, 4, 6, 8, 10) ao quadrado.
+
+e) 13, lógica Fibonacci.
+
+f) Não consegui identificar.
+
+
+4) Se for para desconsiderar o tamanho dos veículos e considerar o cruzamento quando eles estiverem totalmente paralelos, os carro e o caminhão estarão a mesma distância de Ribeirão Preto, já que para se cruzarem eles devem estar no mesmo ponto na rodovia. Se formos considerar o cruzamento na rodovia quando a frente dos do carro e do caminhão estiverem paralelas, o carro estará mais próximo de Ribeirão Preto, porque ele saiu de Ribeirão, e a traseira dele estará mais próxima da cidade que o caminhão.
+
+5) (Código no GitHub)
